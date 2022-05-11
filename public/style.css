@@ -1,0 +1,15 @@
+.custom{
+    width: 100px !important;
+}
+
+.custom-sc {
+    width: 120px !important;
+}
+
+h1 {
+    color: white !important;
+}
+
+body {
+    background-color: rgb(27, 29, 31) !important;
+}
